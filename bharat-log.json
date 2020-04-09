@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bharat-log",
+  "private_key_id": "4006e8db507d66814723d8ee6797e4a1fc86f53a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCgmcRAetmU0Eef\nFQjP3tbvVfS8AwuHUgm+yYZlbXgDKz0I5tAFu0VLfcTSllJhWv9wwXfvdfHzmuqX\nBRKu6i0AuN1YYHvU5/LcVZ37TUsfrsb66lw9cKQkH++4Lp7u4gKy7xAchkNQ8fTs\nE6rI+RRrWysBGKvaG23htbT8gNNZvJzjTfRnIXCuEOKIX6QLPjJ2ig+9/W5q4SMW\n3aPe/Lf0dAy6TESS0wTo1nRG1faTZHP6PP4Rf5L05iR8hgenRzhXQOqoVHONd9q4\neT7iL4m81N3f6cmHZXrouC+dsmTD33776Y4JwqHFejNQugjl5Vri3P7ug0pYuwo4\nAzlRJE33AgMBAAECggEALZfp0LpvueE1bBLPKSBk2ZaH/7ZHmBewv5K7zmC5EQE9\n9yB7zxy+y/M9JOHbKltoqGysbXWJBnUlA1HD35eIxis1X6kojqV425eM3bKwUKLQ\nR5ywKhsn5j+Q0TOfGEdep8jZxJdTVhASzdC5jAu2gdHkkA+efjGKTOlGo+a42cEQ\nHDdr/KwbUNr+l3QoFkcJgOQejEeEGrjWcIdd8+wpk53dBHAROMYJP5Lgs7yYKO1n\nQg98vPn6zFJQJ16gx5MhWzGyypKr4BNm6LJROhfmdfPe0cxrHMrefkHyOnlqqBRl\n6x/TjKLubJ4G9b2x6EzL77ZGGLrelu4eje79SD9DGQKBgQDdu9sLOkg8P/oN9f6n\nDsUohIkllxA8PAejyBTVENIPH0mzzfvyBNVEdwbom6ho7OmiPnJGASKR7k0GNY9y\nsoxb/QMfSV/PVLDaK/xtKxD6Ad1t4jD+roHUY+kQEEaF2rZcmrtWmJkWVedTf3HP\n/jyUpjyuqkBqLBSrlyvuGdqQ7wKBgQC5a2Kk+4GNBvOX5MfDZ3bHSDtbwfkgg0AZ\nRSRJirWw61ptebe40sjW+x0fvtYEgqZE0URR+gyqh7w0e3jTdkaRRuNY7jR40H+F\nvPcyNEJVxyOYLEtGn6aIxrJYgOl/t3RGNW3iu6RcKHA9qp9+9fkcsZd9UlgruRbD\nZrUAow0DeQKBgQCFAXqTcZKDEZ1dYoIuk52QgHAELGmAuEGc7RgR9tUKXSpIwPaw\nZlXHi96JCVYsGnDK8cp6U5P5FYj+gIJbut6XD14gFlNyesrbFCeHFJ5KWXQJxfS9\n0M/wJz5WdGzZPijFw8s8Vqz9yOnKHFiY+1g7krwzycx545dClpuzZ67D4QKBgQCJ\n3OZDdR0mFn0X+ursxwjxsysvVlI9clk+cMJCS/g7y0I5E78elNrvvVYyPFo0kE+/\n6zi5Gwo/4Rx2iTeVQuPFMMfpX3N0QNIQRigmE+UekipNAuIVaK8SE2qXk4IJjAXQ\nDfneE1Zpj0elEi/03j6SrxjL/WXBXKUoND1wc8tBQQKBgQCI8gVvq4BC6zlW7/jZ\nWiyI8awXKighORe3G/Gq2Zkq9LNzk92aOtPsZ54V7+r+XRn34l+oaTQ9DLRJcrMn\nn9DfBUU2vGsNjEM5m66N/N42VKBtvpCGBZqnHaRt3fyJUCECnQc5g6QzX5YFjQEw\n6NSQ8EwoIFpyV4BpYbCZZRkQyg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bharat-log@appspot.gserviceaccount.com",
+  "client_id": "103500381099612722729",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bharat-log%40appspot.gserviceaccount.com"
+}
