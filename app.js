@@ -55,11 +55,7 @@ app.get('/', (req, res) => {
   
   const cnt = 50 
   for(var i=0;i<cnt; i++){
-    try {
-      throw "Something wrong seriously";    
-    } catch (ex) {
-      log.error(ex);
-    }
+    log.info('log test count:'+ new Date().getTime());
   }
   res
     .status(200)
