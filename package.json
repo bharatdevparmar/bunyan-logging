@@ -28,6 +28,7 @@
     "ext-name": "^5.0.0",
     "mime": "^2.4.4",
     "mime-types": "^2.1.26",
+    "nodemon": "^2.0.3",
     "winston": "^3.2.1"
   },
   "devDependencies": {
